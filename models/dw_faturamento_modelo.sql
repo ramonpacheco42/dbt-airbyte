@@ -8,4 +8,4 @@ with dw_faturamento_model as (
     order by 2 desc 
 )
 
-    select * from dw_faturamento_model;
+    select * from dw_faturamento_model

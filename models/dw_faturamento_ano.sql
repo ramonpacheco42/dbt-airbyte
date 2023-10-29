@@ -8,4 +8,4 @@ with dw_faturamento_ano as (
     order by 1 desc
 )
 
-select * from dw_faturamento_ano;
+select * from dw_faturamento_ano
